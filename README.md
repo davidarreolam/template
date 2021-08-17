@@ -15,19 +15,19 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      About The Project
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      Getting Started
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        Prerequisites
       </ul>
     </li>
     <li>
-      <a href="#codeorg">Code Organization</a>
+      Code Organization
     </li>
     <li>
-      <a href="#resources">Extra Resources</a>
+      Extra Resources
     </li>
   </ol>
 </details>
