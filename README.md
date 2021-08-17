@@ -23,8 +23,12 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#codeorg">Code Organization</a></li>
-    <li><a href="#resources">Extra Resources</a></li>
+    <li>
+      <a href="#codeorg">Code Organization</a>
+    </li>
+    <li>
+      <a href="#resources">Extra Resources</a>
+    </li>
   </ol>
 </details>
 
